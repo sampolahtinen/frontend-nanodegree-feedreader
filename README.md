@@ -2,6 +2,9 @@
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
+##How to Install?
+1. Download or clone this repository, navigate to the project folder and launch "index.html"
+2. Directly via link: https://sampolahtinen.github.io/frontend-nanodegree-feedreader/
 
 ## Tests to be passed in order to run the application smoothly
 ### Test suite: "RSS Feeds"
