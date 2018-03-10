@@ -68,7 +68,7 @@ $(function() {
             });
             //Tests loadFeed function, that it actually loads at least one entry.
             it('loadFeed works and it loaded one entry',function(){
-                const entries = $('.feed').children();
+                const entries = $('.feed .entry'); // this could be achieved also by .children().children() notation
                 expect(entries.size()).toBeGreaterThan(0);
             });
         });
